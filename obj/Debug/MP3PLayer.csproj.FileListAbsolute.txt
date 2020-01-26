@@ -1,0 +1,9 @@
+C:\Users\theb0\source\repos\MP3PLayer\MP3PLayer\bin\Debug\MP3PLayer.exe.config
+C:\Users\theb0\source\repos\MP3PLayer\MP3PLayer\bin\Debug\MP3PLayer.exe
+C:\Users\theb0\source\repos\MP3PLayer\MP3PLayer\bin\Debug\MP3PLayer.pdb
+C:\Users\theb0\source\repos\MP3PLayer\MP3PLayer\obj\Debug\MP3PLayer.csprojAssemblyReference.cache
+C:\Users\theb0\source\repos\MP3PLayer\MP3PLayer\obj\Debug\MP3PLayer.Properties.Resources.resources
+C:\Users\theb0\source\repos\MP3PLayer\MP3PLayer\obj\Debug\MP3PLayer.csproj.GenerateResource.cache
+C:\Users\theb0\source\repos\MP3PLayer\MP3PLayer\obj\Debug\MP3PLayer.exe
+C:\Users\theb0\source\repos\MP3PLayer\MP3PLayer\obj\Debug\MP3PLayer.pdb
+C:\Users\theb0\source\repos\MP3PLayer\MP3PLayer\obj\Debug\MP3PLayer.Form1.resources
